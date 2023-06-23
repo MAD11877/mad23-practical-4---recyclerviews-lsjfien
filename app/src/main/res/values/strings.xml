@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MAD Practical 2</string>
+    <string name="btn1">Follow</string>
+    <string name="btn2">Message</string>
+    <string name="greeting">Hello World!</string>
+    <string name="description">Description</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">Group 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
